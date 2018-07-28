@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "447244092711",
+    "firebase_url": "https://test-984d5.firebaseio.com",
+    "project_id": "test-984d5",
+    "storage_bucket": "test-984d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447244092711:android:cc93489532846124",
+        "android_client_info": {
+          "package_name": "jiho.mydressroom.org.mydressroomapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447244092711-m4e3e8ddg98utj2jmng4unctcgpo3rfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jiho.mydressroom.org.mydressroomapplication",
+            "certificate_hash": "2a6f5348f4a40db7f1897ce7905cfab41e5a786a"
+          }
+        },
+        {
+          "client_id": "447244092711-7mhp45de0oqnmc8vtv3oo9u7njvvq98s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBMo2Sif7iFB3n-rV6sF2ImUD51nViMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447244092711-7mhp45de0oqnmc8vtv3oo9u7njvvq98s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447244092711:android:dfb51ce3b9d1f439",
+        "android_client_info": {
+          "package_name": "mdr.mydressroom.org.mydressromeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447244092711-pr6utk1b5ofe66upj0f7th6d4ulgim9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mdr.mydressroom.org.mydressromeapplication",
+            "certificate_hash": "5113f9fac83c8e81ec29f23792937d870b6438d8"
+          }
+        },
+        {
+          "client_id": "447244092711-7mhp45de0oqnmc8vtv3oo9u7njvvq98s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBMo2Sif7iFB3n-rV6sF2ImUD51nViMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447244092711-7mhp45de0oqnmc8vtv3oo9u7njvvq98s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
